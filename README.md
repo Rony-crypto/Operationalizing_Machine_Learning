@@ -41,6 +41,8 @@ Benchmarking means setting a baseline as an acceptable performance measure. Here
 ### Create and Publish a pipeline
 Pipelines are a great way to automate workflows. Publishing a pipeline is the process of making a pipeline publicly available. We use the code in the Jupyter Notebook to create our pipeline.
 ![Create pipeline](https://github.com/himanimadaan/nd00333_AZMLND_C2/blob/master/Screenshots/9.create-pipeline.png)
+The pipeline endpoint is marked as Active.
+![status-active](https://github.com/himanimadaan/nd00333_AZMLND_C2/blob/master/Screenshots/13.status-active.png)
 We can also view the graph of pipeline endpoint. We can see that it has active status:
 ![pipeline-graph](https://github.com/himanimadaan/nd00333_AZMLND_C2/blob/master/Screenshots/10.pipeline-graph.png)
 Bank marketing model summary in graph, the status for experiment is 'completed'.
