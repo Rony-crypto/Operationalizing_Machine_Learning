@@ -3,7 +3,10 @@
 In this project, we work with the Bank Marketing dataset. The dataset contains information about the marketing campaign of a Portuguese Banking Institute. The classification goal is to predict whether a client will subscribe to a term deposit or not. We use Azure to configure a cloud-based machine learning production model, deploy it, and consume it. Atlast, we will also create, publish, and consume a pipeline.
 
 ## Architectural Diagram
-![Architecture](https://github.com/himanimadaan/nd00333_AZMLND_C2/blob/master/Screenshots/0.architecture.png)
+![Architecture](https://github.com/himanimadaan/nd00333_AZMLND_C2/blob/master/Screenshots/0.0Architecture.png)
+
+## Flow Diagram
+![Flow Diagram](https://github.com/himanimadaan/nd00333_AZMLND_C2/blob/master/Screenshots/0.architecture.png)
 
 ## Key Steps
 
