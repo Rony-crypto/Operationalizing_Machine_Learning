@@ -55,4 +55,4 @@ Here's a demo of endpoint and pipeline created in this project- https://1drv.ms/
 ## Future Improvements
 1. Accuracy can be improved by solving the class-imbalance issue of the dataset used.
 2. Number of cross-validations can be increased for better results.
-3. using more powerful tools like Deep-learning can definitely lead to better performance.
+3. Using more powerful tools like Deep-learning can definitely lead to better performance.
